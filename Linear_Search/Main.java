@@ -1,3 +1,4 @@
+package Linear_Search;
 public class Main {
     public static void main(String[] args) {
         int []nums = {23,45,1,28,19,-1,16,-34,28};
